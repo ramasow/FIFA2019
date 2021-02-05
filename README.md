@@ -31,5 +31,3 @@ Merci de participer à la rédaction de cet article! 🖤
 `Étape 8 : Indice de la densité du potentiel par pay`
    - Étape 8a : Indice de la densité du potentiel par pays (data set réduit)
    - Étape 8b : Indice de la densité du potentiel par pays (data set complet)
-
-`Étape 9 : Réflexion personnelle, défis et apprentissages`
